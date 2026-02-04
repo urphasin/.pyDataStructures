@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c3a07ca-2464-41b4-a1ba-b04037811e38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week4/ShotTrainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week4/Vector_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week4/pseudocode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week4/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week4/week4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="5c3a07ca-2464-41b4-a1ba-b04037811e38" name="Changes" comment="push.exe()">
+      <change beforePath="$PROJECT_DIR$/Structures/TreeDataStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Structures/TreeDataStructure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "urphasin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/urphasin/.pyDataStructures.git",
+    "accountId": "4c4acde1-8aab-45c6-9437-977be805873f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -62,6 +64,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
         <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
@@ -74,11 +77,33 @@
       <option name="presentableId" value="Default" />
       <updated>1770020096345</updated>
       <workItem from="1770159904394" duration="6938000" />
+      <workItem from="1770229652548" duration="522000" />
     </task>
+    <task id="LOCAL-00001" summary="push.exe()">
+      <option name="closed" value="true" />
+      <created>1770229834500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770229834500</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push.exe()">
+      <option name="closed" value="true" />
+      <created>1770229860761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770229860761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push.exe()" />
+    <option name="LAST_COMMIT_MESSAGE" value="push.exe()" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1770172029472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week4" />
